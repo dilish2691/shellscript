@@ -1,0 +1,5 @@
+1 steps to run dbbackup shell script
+             -create a cred file for username & passowrd
+
+2 Run the script with DB name as argument
+
