@@ -7,7 +7,7 @@ String version=resource.getString("version");%>
 
 <html>
 <body>
-<h2>flipkart sale is on 30th july</h2>
-<h1>welcome to flipkart</h1>
+<h2>dilish birthday is on 26th july</h2>
+<h1>welcome to this world</h1>
 </body>
 </html>
